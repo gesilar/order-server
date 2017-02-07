@@ -1,0 +1,12 @@
+#ignore files
+_STORE
+*.log
+
+#ignore folders
+node_modules
+dist
+coverage
+.idea
+.vscode
+
+
